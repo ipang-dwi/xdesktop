@@ -2,6 +2,8 @@
 # List terminal command :
 # installing git
 apt-get install git
+# save git credential
+git config credential.helper store
 # install debian based package
 dpkg -i file.deb
 # if error dependencies along install process
