@@ -1,0 +1,9 @@
+######################################## firstplato.com ######
+# List terminal command :
+# install debian based package
+dpkg -i file.deb
+# if error dependencies along install process
+apt --fix-broken install
+# and or
+apt --fix-missing install
+##############################################################
