@@ -2,6 +2,9 @@
 # List terminal command :
 # installing git
 apt-get install git
+# setup user and email for git
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
 # save git credential
 git config credential.helper store
 # install debian based package
