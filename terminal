@@ -1,5 +1,7 @@
 ######################################## firstplato.com ######
 # List terminal command :
+# installing git
+apt-get install git
 # install debian based package
 dpkg -i file.deb
 # if error dependencies along install process
