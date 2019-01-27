@@ -16,7 +16,8 @@ Fonts :
 May some forgetable command :
 <br>All available on terminal file.
 
-<img src="https://github.com/ipang-dwi/xdesktop/blob/master/img/mydesktop.jpg"/>
+Wallpaper :
+<br>Get it in folder wallpaper.
 
 Feel free to reach me on :
 - https://www.firstplato.com
