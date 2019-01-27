@@ -10,8 +10,7 @@ Fonts :
 Get it <a href="https://github.com/ipang-dwi/xfonts">here</a>
 
 May some forgetable command :
-All available on terminal file. 
-asem
+All available on terminal file.
 
 Feel free to reach me on :
 - https://www.firstplato.com
