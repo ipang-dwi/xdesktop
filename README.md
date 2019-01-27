@@ -1,5 +1,6 @@
 # xdesktop
-https://img.shields.io/github/license/ipang-dwi/xdesktop.svg
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" />
+
 This is my desktop setting for x45c - www.firstplato.com
 
 <img src="https://github.com/ipang-dwi/xdesktop/blob/master/img/mydesktop.jpg"/>
