@@ -19,6 +19,6 @@ May some forgetable command :
 <img src="https://github.com/ipang-dwi/xdesktop/blob/master/img/mydesktop.jpg"/>
 
 Feel free to reach me on :
-- <a href="https://www.firstplato.com" target="blank">https://www.firstplato.com</a>
+- https://www.firstplato.com
 - https://www.facebook.com/firstplato
 - admin@firstplato.com
