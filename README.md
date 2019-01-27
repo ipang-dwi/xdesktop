@@ -12,6 +12,8 @@ Fonts :
 May some forgetable command :
 <br>All available on terminal file.
 
+<img src="https://github.com/ipang-dwi/xdesktop/blob/master/img/mydesktop.jpg"/>
+
 Feel free to reach me on :
 - https://www.firstplato.com
 - https://www.facebook.com/firstplato
