@@ -1,16 +1,24 @@
-######################################## firstplato.com ######
-# List terminal command :
-# installing git
-apt-get install git
-# setup user and email for git
-git config --global user.name "Your Name"
-git config --global user.email "your@email.com"
-# save git credential
-git config credential.helper store
-# install debian based package
-dpkg -i file.deb
-# if error dependencies along install process
-apt --fix-broken install
-# and or
-apt --fix-missing install
-##############################################################
+======================================= firstplato.com ======
+= List terminal command :
+= installing git
+# apt-get install git
+= setup user and email for git
+# git config --global user.name "Your Name"
+# git config --global user.email "your@email.com"
+= save git credential
+# git config credential.helper store
+= install debian based package
+# dpkg -i file.deb
+= if error dependencies along install process
+# apt --fix-broken install
+= and or
+# apt --fix-missing install
+= install retropie
+= clone retropie from github
+# sudo apt-get install -y git dialog unzip xmlstarlet
+# git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
+# cd RetroPie-Setup
+# nano /home/track/RetroPie-Setup/scriptmodules/
+= Find Raspbian|Debian, change to be Raspbian|Debian|MX and save
+sudo ./retropie_setup.sh
+=============================================================
