@@ -21,4 +21,16 @@
 # nano /home/track/RetroPie-Setup/scriptmodules/
 = Find Raspbian|Debian, change to be Raspbian|Debian|MX and save
 sudo ./retropie_setup.sh
+= install cmus
+# sudo apt install cmus
+= run cmus and use 5 key, to browse audio files, and use a key to add it in music player
+= install cava
+# apt-get install libfftw3-dev libasound2-dev libncursesw5-dev libpulse-dev libtool
+# git clone git://github.com/karlstav/cava
+# cd cava/
+# ./autogen.sh
+# ./configure
+# make
+# sudo make install
+# cava
 =============================================================
