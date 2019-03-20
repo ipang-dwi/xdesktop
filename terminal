@@ -33,4 +33,10 @@ sudo ./retropie_setup.sh
 # make
 # sudo make install
 # cava
+= install adb + fastboot
+# sudo apt-get install android-tools-adb
+# sudo apt-get install android-tools-fastboot
+# sudo adb start-server
+# sudo adb devices
+# sudo adb kill-server
 =============================================================
