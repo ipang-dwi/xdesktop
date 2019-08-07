@@ -39,4 +39,7 @@ sudo ./retropie_setup.sh
 # sudo adb start-server
 # sudo adb devices
 # sudo adb kill-server
+= install xampp/lampp stack
+# sudo ps aux | grep httpd
+# sudo chown -R daemon /opt/lampp/htdocs/folder-name
 =============================================================
