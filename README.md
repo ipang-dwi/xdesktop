@@ -11,7 +11,7 @@ Operating System :
 <br>MX Linux 18 x64 - Continuum
 
 Fonts :
-<br>Get it <a href="https://github.com/ipang-dwi/xfonts">here</a>
+<br>Get it [here](https://github.com/ipang-dwi/xfonts)
 
 May some forgetable command :
 <br>All available on terminal file.
