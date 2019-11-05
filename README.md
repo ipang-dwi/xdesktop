@@ -19,7 +19,7 @@ May some forgetable command :
 Wallpaper :
 <br>Get it in folder wallpaper.
 
-OS Logs : https://github.com/ipang-dwi/xdesktop/wiki/OS-Logs
+[OS Logs](https://github.com/ipang-dwi/xdesktop/wiki/OS-Logs)
 
 Feel free to reach me on :
 - https://www.firstplato.com
