@@ -20,7 +20,7 @@ Early 2019, was decided to format my linux partition in laptop hdd. Because  som
 - Wallpaper : rog_wallpaper_by_iskariota666
 - Whisker start menu : custom
 - Apps in panel : thunar, xfce4-terminal, chrome, github-desktop, al qur'an digital
-- Running Apps : xfce4-terminal, neofetch, cmus, cava, xchm, vlc
+- Running Apps : xfce4-terminal, neofetch, cmus, cava, xchm, vlc, conky, xdm
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/3.png"/>
 
