@@ -9,7 +9,18 @@ In early 2019, I was decided to format linux partition in my laptop hdd. Just be
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/2.png"/>
 
-Operating System : MX Linux 19 x64 - Patito Feo
+- Operating System : MX Linux 19 x64 - Patito Feo
+- Shell : zsh
+- DE and panel : xfce4
+- WM : xfwm4 with Arc-Dark theme
+- GTK3 Theme and icons : Adwaita
+- Fonts : Noto Sans, Monospace, 
+- Terminal : tilda and xfce4-terminal
+- Terminal theme : oh-my-zsh + powerlevel10k + MesloLGS NF font
+- Wallpaper : rog_wallpaper_by_iskariota666
+- Whisker start menu : custom
+- Apps in panel : thunar, xfce4-terminal, chrome, github-desktop, al qur'an digital
+- Running Apps : xfce4-terminal, neofetch, cmus, cava, xchm, vlc
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/3.png"/>
 
