@@ -16,7 +16,6 @@ Early 2019, was decided to format my linux partition in laptop hdd. Because  som
 - DE and panel : xfce4
 - WM : xfwm4 with Arc-Dark theme
 - GTK3 Theme and icons : Adwaita
-- Fonts : Noto Sans, Monospace, 
 - Terminal : tilda and xfce4-terminal
 - Terminal theme : oh-my-zsh + powerlevel10k + MesloLGS NF font
 - Wallpaper : rog_wallpaper_by_iskariota666
