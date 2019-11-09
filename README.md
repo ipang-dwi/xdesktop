@@ -26,6 +26,8 @@ Early 2019, was decided to format my linux partition in laptop hdd. Because  som
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/3.png"/>
 
+[My Laptop Specs](https://github.com/ipang-dwi/xdesktop/wiki/My-Laptop-Specs)
+
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/4.png"/>
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/5.png"/>
