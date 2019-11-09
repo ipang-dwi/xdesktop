@@ -9,8 +9,7 @@ In early 2019, I was decided to format linux partition in my laptop hdd. Just be
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/2.png"/>
 
-Operating System :
-<br>MX Linux 18 x64 - Continuum
+Operating System : MX Linux 19 x64 - Patito Feo
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/3.png"/>
 
