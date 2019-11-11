@@ -29,6 +29,8 @@ Early 2019, was decided to format my linux partition in laptop hdd. Because  som
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/4.png"/>
 
+[Al Qur'an Digital](https://drive.google.com/open?id=1K0BzQxv2eqzni4QPmWRGcZm2uVWqBAsb)
+
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/5.png"/>
 
 Fonts :
