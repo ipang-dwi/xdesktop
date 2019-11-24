@@ -1,7 +1,7 @@
 # xdesktop
 <img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
 
-This is my desktop setting for x45c - www.firstplato.com
+This is my desktop setting for x45c - www.firstplato.com.
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/xdesktop/master/img/19/1.png"/>
 
@@ -40,7 +40,7 @@ May some forgetable command :
 <br>All available on terminal file.
 
 Wallpaper :
-<br>Get it in folder wallpaper.
+<br>Get it in wallpaper folder.
 
 [OS Logs](https://github.com/ipang-dwi/xdesktop/wiki/OS-Logs)
 
