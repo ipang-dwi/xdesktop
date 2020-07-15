@@ -42,7 +42,10 @@ May some forgetable command :
 Wallpaper :
 <br>Get it in wallpaper folder.
 
-[OS Logs](https://github.com/ipang-dwi/xdesktop/wiki/OS-Logs)
+Old Logs : [OS Logs](https://github.com/ipang-dwi/xdesktop/wiki/OS-Logs)
+New Logs :
+[ ] Install ubuntu LTS 
+[ ] Install Midnight Commander, Krusader
 
 Feel free to reach me on :
 - https://www.firstplato.com
